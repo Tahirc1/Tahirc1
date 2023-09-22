@@ -1,7 +1,7 @@
 # 💫About Me :
 Hi , I'm Tahir 
 
-A Student Learning Web Development and Programming
+Front-end Developer 
 
 
 ## 🌐Socials
