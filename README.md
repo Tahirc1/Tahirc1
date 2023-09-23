@@ -1,7 +1,9 @@
 # 💫About Me :
 Hi , I'm Tahir 
 
-Front-end Developer 
+Front-end Developer and Competitive Programmer
+
+CodeWars rank under 40k and Leetcode rank under 60k
 
 
 ## 🌐Socials
