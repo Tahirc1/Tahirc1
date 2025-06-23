@@ -3,9 +3,13 @@ Hi, I'm Tahir 👋
 AI/ML Engineer | Python Developer | React.js Front-End Developer
 
 Building intelligent, user-friendly systems at the intersection of machine learning and web technologies.
+
 ⚙️ Experienced with LLMs, Computer Vision, and model deployment (FastAPI, Docker, vLLM)
+
 🧠 Working on real-world AI products using open-source and commercial models
+
 💻 Competitive Programmer — CodeWars Top 40K | LeetCode Top 60K
+
 🚀 Skilled in React, Tailwind, and modern front-end tooling
 
 ## 🌐Socials
